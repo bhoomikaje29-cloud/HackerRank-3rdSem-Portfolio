@@ -20,7 +20,7 @@ This repository contains my solutions to the five mandatory HackerRank problems 
 ![Diagonal Difference Accepted](./screenshot/Diagonal-Difference-Accepted.png)
 
 ### Dynamic Array
-![Dynamic Array Accepted](./screenshot/Dynamic-Array-Accepted.png)
+![Dynamic Array Accepted](https://raw.githubusercontent.com/bhoomikaje29-cloud/HackerRank-3rdSem-Portfolio/main/screenshot/Dynamic%20Array%20Accepted.png)
 ### Time Conversion
 ![Time Conversion Accepted](./screenshot/Time-Conversion-Accepted.png)
 
